@@ -1,4 +1,4 @@
-![Demo GIF](demo.gif)
+![Demo GIF](demoGif.gif)
 
 ### Desсription
 
