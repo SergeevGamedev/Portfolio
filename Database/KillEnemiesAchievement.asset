@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 41184aed028acb646840f98d669af258, type: 3}
   m_Name: KillEnemiesAchievement
   m_EditorClassIdentifier: 
-  Icon: {fileID: 0}
+  Icon: {fileID: 10905, guid: 0000000000000000f000000000000000, type: 0}
   AchievementId: KillEnemiesAchievement_3
   Title: Kill Enemies
   Description: Kill Enemies

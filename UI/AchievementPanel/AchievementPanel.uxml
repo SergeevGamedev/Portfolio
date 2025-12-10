@@ -1,5 +1,5 @@
 <ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
-    <Style src="project://database/Assets/UI%20Toolkit/AchievementPanel/AchievementPanelNew.uss?fileID=7433441132597879392&amp;guid=220637d5754bddd4b8dd58b28fe679a7&amp;type=3#AchievementPanelNew" />
+    <Style src="project://database/Assets/PortfolioSergeev/UI/AchievementPanel/AchievementPanel.uss?fileID=7433441132597879392&amp;guid=220637d5754bddd4b8dd58b28fe679a7&amp;type=3#AchievementPanel" />
     <ui:VisualElement name="Panel" class="panel">
         <ui:VisualElement name="Header" class="header">
             <ui:Label text="Achievements" name="Label" class="header__label" style="font-size: 40%;" />
